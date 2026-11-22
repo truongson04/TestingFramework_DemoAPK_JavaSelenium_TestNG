@@ -5,6 +5,7 @@
 
     <listeners>
         <listener class-name="Listeners.TestListener" />
+        <listener class-name="Listeners.RetryAnalyzer"/>
     </listeners>
 
 
